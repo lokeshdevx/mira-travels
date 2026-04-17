@@ -248,7 +248,7 @@ export const locations = [
       {
         name: "Merta City",
         distance: "65 km",
-        description: "Associated with Meera Bai’s devotion.",
+        description: "Associated with Mira Bai’s devotion.",
       },
     ],
     bestTimeToVisit: "October to March",
@@ -1308,7 +1308,7 @@ export const locations = [
   },
   {
     name: "Merta-City",
-    title: "The City of Meera Bai",
+    title: "The City of Mira Bai",
     heroImage:
       "https://www.journeyera.com/wp-content/uploads/2017/07/untitled-0023.jpg",
     gallery: [
@@ -1318,13 +1318,13 @@ export const locations = [
       "/placeholder.svg?height=600&width=800&query=merta lake",
     ],
     description:
-      "Merta City is known as the birthplace of the poet-saint Meera Bai, with spiritual and historical sites.",
+      "Merta City is known as the birthplace of the poet-saint Mira Bai, with spiritual and historical sites.",
     history:
       "Ancient town mentioned in medieval scriptures, once ruled by Rathore clan.",
     attractions: [
       {
-        name: "Meera Bai Temple",
-        description: "Dedicated to the mystic poet Meera Bai.",
+        name: "Mira Bai Temple",
+        description: "Dedicated to the mystic poet Mira Bai.",
         image: "/placeholder.svg?height=400&width=600&query=meera bai mandir",
       },
       {

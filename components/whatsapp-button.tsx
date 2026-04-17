@@ -2,7 +2,7 @@ import Link from "next/link";
 import { MessageCircle } from "lucide-react";
 
 const WHATSAPP_NUMBER = "+919610846782";
-const DEFAULT_MESSAGE = `Hi there!, Welcome to Meera Travels (https://Meera-travels-udaipur.vercel.app/).\nLooking for a ride or planning a trip? Just share your journey details (location, date & time), and we'll take care of the rest!\nThank you !!! `;
+const DEFAULT_MESSAGE = `Hi there!, Welcome to Mira Travels (https://meera-travels.vercel.app/).\nLooking for a ride or planning a trip? Just share your journey details (location, date & time), and we'll take care of the rest!\nThank you !!! `;
 
 export function WhatsAppButton() {
   const whatsappUrl = `https://wa.me/${WHATSAPP_NUMBER}?text=${encodeURIComponent(DEFAULT_MESSAGE)}`;

@@ -13,7 +13,7 @@ export default function TermsOfService() {
               Terms and Conditions
             </h1>
             <p className="text-xl text-muted-foreground">
-              Please read these terms carefully before using Meera Travels
+              Please read these terms carefully before using Mira Travels
               services
             </p>
             <div className="flex items-center justify-center text-sm text-muted-foreground">
@@ -29,7 +29,7 @@ export default function TermsOfService() {
                   1. Acceptance of Terms
                 </h2>
                 <p className="text-muted-foreground leading-relaxed">
-                  By using Meera Travels' services, you agree to be bound by
+                  By using Mira Travels' services, you agree to be bound by
                   these terms. These apply to all users including browsers,
                   customers, and content contributors. If you disagree with any
                   terms, you may not access our services.
@@ -101,7 +101,7 @@ export default function TermsOfService() {
                   </div>
 
                   <h3 className="text-lg font-medium mt-4">
-                    3.2 Meera Travels Cancellation
+                    3.2 Mira Travels Cancellation
                   </h3>
                   <p className="text-muted-foreground leading-relaxed">
                     We may cancel due to unforeseen circumstances, offering full
@@ -139,7 +139,7 @@ export default function TermsOfService() {
                 <p className="text-muted-foreground leading-relaxed">
                   We strongly recommend comprehensive travel insurance covering
                   medical emergencies, trip cancellations, and lost baggage.
-                  Meera Travels is not liable for incidents covered by
+                  Mira Travels is not liable for incidents covered by
                   insurance.
                 </p>
               </section>

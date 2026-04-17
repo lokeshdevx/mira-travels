@@ -72,7 +72,7 @@ export default function ContactPage() {
                   <div>
                     <h3 className="text-xl font-semibold mb-1">Phone</h3>
                     <p className="text-gray-600">
-                      +91 96108 46782 (General Enquiries)
+                      +91 9829507865 (General Enquiries)
                       <br />
                       +91 96108 46782 (Booking & Reservations)
                     </p>
@@ -228,7 +228,7 @@ export default function ContactPage() {
             ></iframe>
             <div className="absolute inset-0 flex items-center justify-center top-1/2">
               <div className="bg-white p-4 rounded-lg shadow-lg max-w-sm">
-                <h3 className="font-semibold mb-2">Meera Travels, Udaipur</h3>
+                <h3 className="font-semibold mb-2">Mira Travels, Udaipur</h3>
                 <p className="text-sm text-gray-600">
                  Airport Road, Udaipur, 313001
                 </p>

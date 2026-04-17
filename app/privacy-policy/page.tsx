@@ -15,13 +15,13 @@ import {
 import Link from "next/link";
 import { SiteFooter } from "@/components/site-footer";
 
-const BRAND_NAME = "Meera Travels";
+const BRAND_NAME = "Mira Travels";
 const CURRENT_YEAR = new Date().getFullYear();
 const LAST_UPDATED = "January 15, 2024";
 const CONTACT_EMAIL = "privacy@Meeratravels.com";
 const CONTACT_PHONE = "+91 98765 43210";
 const ADDRESS = [
-  "Meera Travels",
+  "Mira Travels",
   "Attn: Privacy Department",
   "123 Heritage Lane",
   "New Delhi, DL 110001",

@@ -349,15 +349,15 @@ export default function AboutPage() {
               <div className="relative h-64 w-64 mx-auto rounded-full overflow-hidden mb-4">
                 <Image
                   src="/placeholder.svg?height=400&width=400&query=indian woman in smart casual attire"
-                  alt="Meera Joshi - Customer Relations"
+                  alt="Mira Joshi - Customer Relations"
                   fill
                   className="object-cover"
                 />
               </div>
-              <h3 className="text-xl font-semibold">Meera Joshi</h3>
+              <h3 className="text-xl font-semibold">Mira Joshi</h3>
               <p className="text-orange-600">Customer Relations</p>
               <p className="text-gray-600 mt-2">
-                Meera leads our customer support team, ensuring every client
+                Mira leads our customer support team, ensuring every client
                 receives personalized attention.
               </p>
             </div>

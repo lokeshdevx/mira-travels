@@ -14,7 +14,7 @@ const NAV_ITEMS = [
   { href: "/contact", label: "Contact Us" },
 ];
 
-const PHONE_NUMBER = "+91 9610846782";
+const PHONE_NUMBER = "+91 9829507865";
 
 export function SiteHeader() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
@@ -29,14 +29,14 @@ export function SiteHeader() {
           <div className="relative h-8 w-8">
             <Image
               src="/image.png"
-              alt="Meera Travels Logo"
+              alt="Mira Travels Logo"
               fill
               className="object-contain"
               priority
             />
           </div>
           <span className="hidden text-xl font-bold sm:inline-block">
-            Meera Travels
+            Mira Travels
           </span>
         </Link>
 

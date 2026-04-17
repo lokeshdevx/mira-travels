@@ -48,13 +48,13 @@ export function SiteFooter() {
               <div className="relative h-10 w-10 mr-3">
                 <Image
                   src="/image.png"
-                  alt="Rajasthan Travels Logo"
+                  alt="Mira Travels Logo"
                   fill
                   className="object-contain"
                 />
               </div>
               <h3 className="text-xl font-bold text-white">
-                Rajasthan Travels
+                Mira Travels
               </h3>
             </div>
             <p className="mb-4">
@@ -68,7 +68,7 @@ export function SiteFooter() {
               </div>
               <div className="flex items-start">
                 <Phone className="h-5 w-5 mr-2 mt-0.5 text-orange-500" />
-                <span>+91 96108 46782</span>
+                <span>+91 9829507865</span>
               </div>
               <div className="flex items-start">
                 <Mail className="h-5 w-5 mr-2 mt-0.5 text-orange-500" />
@@ -269,7 +269,7 @@ export function SiteFooter() {
 
         <div className="border-t border-gray-800 mt-8 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p>
-            &copy; {new Date().getFullYear()} Meera Travels. All rights
+            &copy; {new Date().getFullYear()} Mira Travels. All rights
             reserved.
           </p>
           <div className="mt-4 md:mt-0 flex space-x-6">

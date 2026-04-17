@@ -29,7 +29,7 @@ export default function Home() {
               Discover the Magic of Rajasthan
             </h1>
             <h1 className="text-4xl mt-3 font-bold tracking-tight text-orange-600 sm:text-5xl md:text-6xl">
-              With Meera Travels, Udaipur
+              With Mira Travels, Udaipur
             </h1>
             <div className="rainbow mt-3 lg:hidden">
               <h3 className="text-xl mt-1 font-bold tracking-tight text-black sm:text-5xl md:text-6xl">

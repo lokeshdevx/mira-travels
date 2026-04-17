@@ -3,24 +3,24 @@ import "./globals.css";
 import { SiteHeader } from "@/components/site-header";
 
 export const metadata: Metadata = {
-  title: "Meera Travels",
-  description: "Meera Travels",
+  title: "Mira Travels",
+  description: "Mira Travels",
   generator: "Lokesh Sharma",
-  keywords: ["Meera Travels", "Rajasthan", "Tourism", "Travel"],
+  keywords: ["Mira Travels", "Rajasthan", "Tourism", "Travel"],
   authors: [{ name: "Lokesh Sharma" }],
   openGraph: {
-    title: "Meera Travels",
-    description: "Meera Travels",
+    title: "Mira Travels",
+    description: "Mira Travels",
     type: "website",
     locale: "en",
-    siteName: "Meera Travels",
-    url: "https://Meera-travels.vercel.app",
+    siteName: "Mira Travels",
+    url: "https://meera-travels.vercel.app/",
     images: [
       {
-        url: "/image.png?height=400&width=600&query=logo Meera travels",
+        url: "/image.png?height=400&width=600&query=logo Mira travels",
         height: 400,
         width: 600,
-        alt: "Meera Travels Logo",
+        alt: "Mira Travels Logo",
       },
     ],
   },
