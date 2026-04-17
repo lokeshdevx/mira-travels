@@ -14,7 +14,7 @@ export const metadata: Metadata = {
     type: "website",
     locale: "en",
     siteName: "Mira Travels",
-    url: "https://meera-travels.vercel.app/",
+    url: "https://mira-travels.vercel.app/",
     images: [
       {
         url: "/image.png?height=400&width=600&query=logo Mira travels",

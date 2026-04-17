@@ -72,7 +72,7 @@ export function SiteFooter() {
               </div>
               <div className="flex items-start">
                 <Mail className="h-5 w-5 mr-2 mt-0.5 text-orange-500" />
-                <span>masfalna@gmail.com</span>
+                <span>miratravelsudaipur@gmail.com</span>
               </div>
             </div>
           </div>
