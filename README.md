@@ -1,75 +1,46 @@
 # Mira Travels
 
-Welcome to **Mira Travels** — your trusted Rajasthan-based tour and travel partner.  
-We specialize in creating memorable travel experiences across the beautiful state of Rajasthan and other popular destinations in India.
+A modern Rajasthan-based Tour & Travel website built with **Next.js**, **TypeScript**, and **Tailwind CSS**.
+
+Mira Travels helps users explore Rajasthan tour packages, travel destinations, hotel bookings, cab services, and desert safari experiences through a fast and responsive web platform.
 
 ---
 
-## 🌍 About Mira Travels
+## 🌍 About The Project
 
-Mira Travels provides:
+Mira Travels is designed to provide travelers with:
 
 - Rajasthan Tour Packages
-- Local Sightseeing Tours
-- Desert Safari Experiences
-- Hotel & Resort Bookings
-- Cab & Taxi Services
-- Customized Family & Group Tours
-- Honeymoon Packages
-- Heritage & Cultural Tours
-
-Our mission is to deliver comfortable, affordable, and unforgettable travel experiences for every traveler.
+- Taxi & Cab Booking
+- Hotel Reservations
+- Desert Safari Tours
+- Heritage & Cultural Experiences
+- Responsive Travel Website Experience
 
 ---
 
 ## ✨ Features
 
-- Modern and responsive travel website
-- Tour package listings
-- Destination showcase
-- Online inquiry/contact form
-- Mobile-friendly design
-- Easy navigation
-- SEO optimized structure
-- Fast and secure experience
-
----
-
-## 🏜️ Popular Destinations
-
-- Jaipur
-- Udaipur
-- Jaisalmer
-- Jodhpur
-- Mount Abu
-- Pushkar
-- Bikaner
-- Ranthambore
-
----
-
-## 🚖 Services
-
-| Service | Description |
-|---|---|
-| Tour Packages | Customized Rajasthan travel plans |
-| Taxi Service | Local & outstation cab bookings |
-| Hotel Booking | Budget to luxury stays |
-| Desert Safari | Camel & jeep safari experiences |
-| Group Tours | Corporate, school & family trips |
+- Fully Responsive Design
+- SEO Optimized Pages
+- Fast Performance
+- Modern UI/UX
+- Dynamic Routing
+- Tour Package Listings
+- Testimonials Section
+- Contact & Inquiry Forms
+- Mobile Friendly Layout
 
 ---
 
 ## 🛠️ Tech Stack
 
-This project can be built using:
-
-- HTML5
-- CSS3
-- JavaScript
-- React / Next.js
-- Node.js
+- Next.js
+- React.js
+- TypeScript
 - Tailwind CSS
+- ShadCN UI
+- PostCSS
 
 ---
 
@@ -78,13 +49,21 @@ This project can be built using:
 ```bash
 Mira-Travels/
 │
-├── public/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── assets/
-│   └── styles/
+├── app/                    # Next.js App Router pages
+├── components/             # Reusable UI components
+├── constants/              # Static data and constants
+├── hooks/                  # Custom React hooks
+├── lib/                    # Utility/helper functions
+├── public/                 # Static assets
+├── styles/                 # Global styles
 │
-├── package.json
+├── .gitignore
 ├── README.md
-└── .gitignore
+├── components.json
+├── next.config.mjs
+├── package.json
+├── package-lock.json
+├── pnpm-lock.yaml
+├── postcss.config.mjs
+├── tailwind.config.ts
+└── tsconfig.json
